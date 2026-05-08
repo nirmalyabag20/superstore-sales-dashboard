@@ -1,3 +1,4 @@
+![Dashboard Preview](Dashboard_Screenshot.png)
 # 🛒 Superstore Sales Dashboard — Tableau
 
 > Finding where a $2.3M business was quietly bleeding profit.
